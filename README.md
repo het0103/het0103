@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Het</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4F8CC9&center=true&vCenter=true&width=700&lines=Plan+->+Design+->+Build+->+Iterate;Think+-→+Build+-→+Improve;Code+-→+Test+-→+Understand;Every+project+leaves+behind+more+than+code..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4F8CC9&center=true&vCenter=true&width=700&lines=Plan+->+Design+->+Build+->+Iterate;Think+-+Build+-+Improve;Code+-+Test+-+Understand;Every+project+leaves+behind+more+than+code..." />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ I enjoy participating in hackathons, building full-stack applications, and under
 
 AI is a valuable part of my development workflow, but I believe its real value comes from helping me learn, test, and continuously improve what I build.
 
-Currently focused on becoming a better software engineer—one project at a time.
+Currently learning, building, and becoming a better software engineer—one project at a time.
 
 ## 🧠 Engineering Mindset
 
@@ -115,3 +115,10 @@ Built as an experiment to explore AI-assisted software engineering workflows.
   <a href="https://www.linkedin.com/in/het-prajapati-74370431b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  ---
+
+<p align="center">
+⭐ Thanks for visiting my profile! <br>
+Always open to learning, collaborating, and building meaningful software.
+</p>
