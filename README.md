@@ -65,3 +65,14 @@ AI-assisted GitHub repository analysis that helps developers understand unfamili
 
 - 🏅 **Smart India Hackathon (SIH) 2025 – Internal Hackathon Winner**
   - Worked as part of a team to develop a solution during the college-level internal round.
+
+  ## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=het0103&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=het0103&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=het0103&layout=compact&theme=github_dark&hide_border=true" />
+</p>
