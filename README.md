@@ -35,8 +35,15 @@ Currently focused on becoming a better software engineer—one project at a time
 
 Improve typing speed through focused practice with multiple modes, real-time analytics, and a clean, distraction-free interface.
 
-🛠 **Tech:** React • FastAPI • PostgreSQL
+🛠 **Tech Stack:** React • Vite • FastAPI • PostgreSQL
 
 🌐 **Live Demo:** <link>
 
 📂 **Source Code:** <link>
+
+## 📚 Currently Exploring
+
+- 🐍 FastAPI & Backend Development
+- 🏗 Software Architecture & System Design
+- 🧪 Testing, API Validation & Edge Cases
+- 🤖 Building AI-assisted developer workflows
