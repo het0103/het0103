@@ -47,3 +47,11 @@ Improve typing speed through focused practice with multiple modes, real-time ana
 - 🏗 Software Architecture & System Design
 - 🧪 Testing, API Validation & Edge Cases
 - 🤖 Building AI-assisted developer workflows
+
+### 🤖 RepoSage
+
+AI-assisted GitHub repository analysis that helps developers understand unfamiliar codebases through documentation, architecture insights, and repository exploration.
+
+🛠 **Tech Stack:** React • Express • Node.js • AI Agents
+
+📂 **Source Code:** <link>
