@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Het</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4F8CC9&center=true&vCenter=true&width=700&lines=Plan+->+Design+->+Build+->+Iterate;Think+→+Build+→+Improve;Code+→+Test+→+Understand;Every+project+leaves+behind+more+than+code..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4F8CC9&center=true&vCenter=true&width=700&lines=Plan+->+Design+->+Build+->+Iterate;Think+-→+Build+-→+Improve;Code+-→+Test+-→+Understand;Every+project+leaves+behind+more+than+code..." />
 </p>
 
 <p align="center">
@@ -41,8 +41,14 @@ Improve typing speed through focused practice with multiple modes, real-time ana
 
 🛠 **Tech Stack:** React • Vite • FastAPI • PostgreSQL
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](<link>)
-[![Repository](https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github)](<link>)
+<p align="center">
+  <a href="<live-demo-link>">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge" />
+  </a>
+  <a href="<repo-link>">
+    <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ## 📚 Currently Exploring
 
@@ -59,7 +65,14 @@ Built as an experiment to explore AI-assisted software engineering workflows.
 
 🛠 **Tech Stack:** React • Express • Node.js • AI Agents
 
-📂 **Source Code:** <link>
+<p align="center">
+  <a href="<live-demo-link>">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge" />
+  </a>
+  <a href="<repo-link>">
+    <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ## 🏆 Hackathon Experience
 
