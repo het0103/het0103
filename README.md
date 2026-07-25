@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Het</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4F8CC9&center=true&vCenter=true&width=700&lines=Plan+→+Design+→+Build+→+Iterate;Think+→+Build+→+Improve;Code+→+Test+→+Understand;Every+project+leaves+behind+more+than+code..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4F8CC9&center=true&vCenter=true&width=700&lines=Plan+->+Design+->+Build+->+Iterate;Think+→+Build+→+Improve;Code+→+Test+→+Understand;Every+project+leaves+behind+more+than+code..." />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ I'm a Computer Engineering student from India who enjoys turning ideas into soft
 
 I enjoy participating in hackathons, building full-stack applications, and understanding how software works—not just how to make it work.
 
-AI is a valuable part of my development workflow, but I believe the real value comes from understanding, testing, and continuously improving what I build.
+AI is a valuable part of my development workflow, but I believe its real value comes from helping me learn, test, and continuously improve what I build.
 
 Currently focused on becoming a better software engineer—one project at a time.
 
@@ -41,9 +41,8 @@ Improve typing speed through focused practice with multiple modes, real-time ana
 
 🛠 **Tech Stack:** React • Vite • FastAPI • PostgreSQL
 
-🌐 **Live Demo:** <link>
-
-📂 **Source Code:** <link>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](<link>)
+[![Repository](https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github)](<link>)
 
 ## 📚 Currently Exploring
 
@@ -55,6 +54,8 @@ Improve typing speed through focused practice with multiple modes, real-time ana
 ### 🤖 RepoSage
 
 AI-assisted GitHub repository analysis that helps developers understand unfamiliar codebases through documentation, architecture insights, and repository exploration.
+
+Built as an experiment to explore AI-assisted software engineering workflows.
 
 🛠 **Tech Stack:** React • Express • Node.js • AI Agents
 
@@ -70,7 +71,7 @@ AI-assisted GitHub repository analysis that helps developers understand unfamili
 - 🏅 **Smart India Hackathon (SIH) 2025 – Internal Hackathon Winner**
   - Worked as part of a team to develop a solution during the college-level internal round.
 
-  ## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=het0103&show_icons=true&theme=github_dark&hide_border=true" />
