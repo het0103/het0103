@@ -12,6 +12,10 @@ Computer Engineering Student 🇮🇳 • Full-Stack Developer • Hackathon Ent
 <i>Every project leaves behind more than code—it leaves behind a lesson.</i>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=het0103&label=Profile%20Views&color=4F8CC9&style=flat" />
+</p>
+
 ## 👨‍💻 About Me
 
 I'm a Computer Engineering student from India who enjoys turning ideas into software.
@@ -75,6 +79,12 @@ AI-assisted GitHub repository analysis that helps developers understand unfamili
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=het0103&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=het0103&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ## 🎵 Now Playing
