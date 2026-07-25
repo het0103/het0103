@@ -21,3 +21,22 @@ I enjoy participating in hackathons, building full-stack applications, and under
 AI is a valuable part of my development workflow, but I believe the real value comes from understanding, testing, and continuously improving what I build.
 
 Currently focused on becoming a better software engineer—one project at a time.
+
+## 🧠 Engineering Mindset
+
+- 📋 I believe thoughtful planning and design lead to better software.
+- 🤖 I use AI to accelerate development, but I make it a priority to understand, test, and improve what I build.
+- 🧪 I enjoy exploring edge cases, validating business logic, and learning through code reviews.
+- 📚 Every project teaches me something new, and I carry those lessons into the next one.
+
+## 🚀 Featured Projects
+
+### 🔤 TypeToImprove
+
+Improve typing speed through focused practice with multiple modes, real-time analytics, and a clean, distraction-free interface.
+
+🛠 **Tech:** React • FastAPI • PostgreSQL
+
+🌐 **Live Demo:** <link>
+
+📂 **Source Code:** <link>
