@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Het</h1>
 
-<!--
-**het0103/het0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4F8CC9&center=true&vCenter=true&width=700&lines=Plan+→+Design+→+Build+→+Iterate;Think+→+Build+→+Improve;Code+→+Test+→+Understand;Every+project+leaves+behind+more+than+code..." />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Computer Engineering Student 🇮🇳 • Full-Stack Developer • Hackathon Enthusiast
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<i>Every project leaves behind more than code—it leaves behind a lesson.</i>
+</p>
+
+## 👨‍💻 About Me
+
+I'm a Computer Engineering student from India who enjoys turning ideas into software.
+
+I enjoy participating in hackathons, building full-stack applications, and understanding how software works—not just how to make it work.
+
+AI is a valuable part of my development workflow, but I believe the real value comes from understanding, testing, and continuously improving what I build.
+
+Currently focused on becoming a better software engineer—one project at a time.
