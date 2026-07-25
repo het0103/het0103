@@ -76,3 +76,11 @@ AI-assisted GitHub repository analysis that helps developers understand unfamili
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=het0103&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
+## 🎵 Now Playing
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31aqyp3prx33zfdo2as74qyivbuq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31aqyp3prx33zfdo2as74qyivbuq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+  </a>
+</p>
