@@ -55,3 +55,13 @@ AI-assisted GitHub repository analysis that helps developers understand unfamili
 🛠 **Tech Stack:** React • Express • Node.js • AI Agents
 
 📂 **Source Code:** <link>
+
+## 🏆 Hackathon Experience
+
+- 🥈 **Odoo x KSV Hackathon 2026 Finalist**
+  - Built an Enterprise Carpooling Platform in a 24-hour hackathon.
+  - Strengthened my understanding of software architecture, API design, testing, and real-world code reviews.
+  - Repository maintained by the team leader.
+
+- 🏅 **Smart India Hackathon (SIH) 2025 – Internal Hackathon Winner**
+  - Worked as part of a team to develop a solution during the college-level internal round.
